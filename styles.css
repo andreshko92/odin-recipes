@@ -1,0 +1,20 @@
+/* * {
+  outline: 2px solid red;
+} */
+body {
+    background: #909090;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
+    padding: 50px;
+    border: dotted; color: black;
+}
+h1 {
+    background-color: cornsilk;
+    padding: 20px;
+    color: #909090;
+}
+
+ul {
+    background-color: cornsilk;
+    padding: 20px;
+}
